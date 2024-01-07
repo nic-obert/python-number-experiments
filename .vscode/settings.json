@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "longintrepr.h": "c",
+        "*.inc": "c",
+        "python.h": "c",
+        "longobject.h": "c",
+        "inttypes.h": "c"
+    }
+}
