@@ -1,6 +1,0 @@
-number_info.c
-setup.py
-number_info.egg-info/PKG-INFO
-number_info.egg-info/SOURCES.txt
-number_info.egg-info/dependency_links.txt
-number_info.egg-info/top_level.txt
